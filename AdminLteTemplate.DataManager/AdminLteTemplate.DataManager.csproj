@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Ardalis.Result" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Accessors\AdminLteTemplate.DataAccessor\AdminLteTemplate.DataAccessor.csproj" />
   </ItemGroup>
 
